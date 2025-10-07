@@ -102,10 +102,6 @@ h1 {
 </html>
 ```
 
-
-## SERVER SIDE PROCESSING:
-
-
 ## HOMEPAGE:
 
 <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/f776716f-4baa-4a88-8fcb-721234115f2e" />
