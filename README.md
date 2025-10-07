@@ -1,5 +1,7 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:
+## Date: 08-10-2025
+## Name:Balaji BM
+## Ref No:25016669
 
 ## AIM:
  To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
@@ -33,11 +35,82 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 
+```
+math.html
+
+<html>
+<head>
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<title>SURFACE AREA OF RIGHT CYLINDER</title>
+<h2 align="center">BALAJI BM</h2>
+<h3 align="center">25016669</h3>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<style type="text/css">
+body {
+    background-color: rgb(207, 155, 59);
+}
+.edge {
+    width: 100%; /* Set width to 100% */
+    display: flex;
+    justify-content: center; /* Center the content horizontally */
+    align-items: center; /* Center the content vertically */
+    height: 100vh; /* Set height to 100% of the viewport height */
+}
+.box {
+    border: Thick dashed rgb(193, 117, 18);
+    width: 500px;
+    min-height: 300px;
+    font-size: 20px;
+    background-color: pink;
+    padding: 20px; /* Add padding for better appearance */
+}
+.formelt {
+    color: black;
+    text-align: center;
+    margin-top: 7px;
+    margin-bottom: 6px;
+}
+h1 {
+    color: black;
+    text-align: center;
+    padding-top: 20px;
+}
+</style>
+</head>
+<body>
+<div class="edge">
+    <div class="box">
+        <h1>SURFACE AREA OF RIGHT CYLINDER </h1>
+        <form method="POST">
+            <div class="formelt">
+                Radius : <input type="text" name="Radius" value=""></input>(in m)<br/>
+            </div>
+            <div class="formelt">
+                Height : <input type="text" name="height" value=""></input>(in m)<br/>
+            </div>
+            <div class="formelt">
+                <input type="submit" value="Calculate"></input><br/>
+            </div>
+            <div class="formelt">
+                Area : <input type="text" name="area" value=""></input>m<sup>2</sup><br/>
+            </div>
+        </form>
+    </div>
+</div>
+</body>
+</html>
+```
+
 
 ## SERVER SIDE PROCESSING:
 
 
 ## HOMEPAGE:
+
+<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/f776716f-4baa-4a88-8fcb-721234115f2e" />
+
+
 
 
 ## RESULT:
